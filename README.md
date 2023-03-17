@@ -15,7 +15,6 @@
 | ![Browserstack](icons/browserstack.svg) |       ![](icons/appium.png)       |   ![](icons/Android-studio.svg)   |     ![](icons/Selenium.png)    |     ![](icons/GitHub.svg)     |                                           |                                         |
 
 
-![Alekseibulatov's github stats](https://github-readme-stats.vercel.app/api?username=alekseibulatov&show_icons=true&theme=radical)
 
 ### You can find me on:
 
